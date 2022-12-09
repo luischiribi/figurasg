@@ -1,0 +1,27 @@
+table, th, td {
+    border:1px solid black;
+  }
+  .subtitulo {
+    background-color: DodgerBlue;
+    color: white;
+    padding: 10px;
+  }
+  .letra {
+    background-color: DodgerBlue;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+  h2{
+    text-align: center;
+  }
+  .centrado{
+   float: right;
+   margin-left: 15px;
+   margin-right: 470px;
+  }
+  .mitad{
+    text-align: center;
+  }
+  
