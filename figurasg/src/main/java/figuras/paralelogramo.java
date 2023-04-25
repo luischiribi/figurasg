@@ -41,7 +41,7 @@ public class paralelogramo extends figurasGeometricas{
     }
     public void ingresarDatosPara() {
 
-        System.out.println("ingresar datos de paralelogramo");
+        System.out.println("ingresar los datos del paralelogramo");
         
         System.out.println("ingresar valor de  base");
         b=entrada.nextDouble();
